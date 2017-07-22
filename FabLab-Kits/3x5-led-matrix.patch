@@ -1,0 +1,2221 @@
+--- labels.svg	2017-07-22 16:05:04.000000000 +0200
++++ labels-3x5-led-matrix.svg	2017-07-22 16:04:34.000000000 +0200
+@@ -211 +211 @@
+-         id="tspan32522">$TITLE</tspan><tspan
++         id="tspan32522">3×5 LED-Matrix</tspan><tspan
+@@ -216 +216 @@
+-         id="tspan32524">$VARIANT</tspan></text>
++         id="tspan32524"></tspan></text>
+@@ -223 +223 @@
+-       xml:space="preserve">$URL</text>
++       xml:space="preserve">http://fl-w.ch/3x5-led-matrix</text>
+@@ -240 +240 @@
+-         sodipodi:role="line">$DESIGNER</tspan></text>
++         sodipodi:role="line">Damian Schneider</tspan></text>
+@@ -257 +257 @@
+-         id="tspan33434">$PRICE</tspan></text>
++         id="tspan33434">30.—</tspan></text>
+@@ -304 +304,2202 @@
+-      <!-- insert <g inkscape:label="QR Code: ..."> without transform here (generate 25x25 QR code with pixel size 2.3) -->
++      <g
++         inkscape:label="QR Code: http://fl-w.ch/3x5-led-matrix"
++         id="g10182">
++        <rect
++           x="0"
++           y="0"
++           width="75.8999984264"
++           height="75.8999984264"
++           style="fill:white;stroke:none"
++           id="rect10184" />
++        <rect
++           x="9.19999980927"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10186" />
++        <rect
++           x="11.4999997616"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10188" />
++        <rect
++           x="13.7999997139"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10190" />
++        <rect
++           x="16.0999996662"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10192" />
++        <rect
++           x="18.3999996185"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10194" />
++        <rect
++           x="20.6999995708"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10196" />
++        <rect
++           x="22.9999995232"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10198" />
++        <rect
++           x="29.8999993801"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10200" />
++        <rect
++           x="32.1999993324"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10202" />
++        <rect
++           x="36.7999992371"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10204" />
++        <rect
++           x="43.699999094"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10206" />
++        <rect
++           x="45.9999990463"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10208" />
++        <rect
++           x="50.599998951"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10210" />
++        <rect
++           x="52.8999989033"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10212" />
++        <rect
++           x="55.1999988556"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10214" />
++        <rect
++           x="57.4999988079"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10216" />
++        <rect
++           x="59.7999987602"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10218" />
++        <rect
++           x="62.0999987125"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10220" />
++        <rect
++           x="64.3999986649"
++           y="9.19999980927"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10222" />
++        <rect
++           x="9.19999980927"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10224" />
++        <rect
++           x="22.9999995232"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10226" />
++        <rect
++           x="27.5999994278"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10228" />
++        <rect
++           x="34.4999992847"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10230" />
++        <rect
++           x="41.3999991417"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10232" />
++        <rect
++           x="43.699999094"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10234" />
++        <rect
++           x="45.9999990463"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10236" />
++        <rect
++           x="50.599998951"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10238" />
++        <rect
++           x="64.3999986649"
++           y="11.4999997616"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10240" />
++        <rect
++           x="9.19999980927"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10242" />
++        <rect
++           x="13.7999997139"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10244" />
++        <rect
++           x="16.0999996662"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10246" />
++        <rect
++           x="18.3999996185"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10248" />
++        <rect
++           x="22.9999995232"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10250" />
++        <rect
++           x="27.5999994278"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10252" />
++        <rect
++           x="29.8999993801"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10254" />
++        <rect
++           x="32.1999993324"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10256" />
++        <rect
++           x="34.4999992847"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10258" />
++        <rect
++           x="36.7999992371"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10260" />
++        <rect
++           x="41.3999991417"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10262" />
++        <rect
++           x="45.9999990463"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10264" />
++        <rect
++           x="50.599998951"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10266" />
++        <rect
++           x="55.1999988556"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10268" />
++        <rect
++           x="57.4999988079"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10270" />
++        <rect
++           x="59.7999987602"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10272" />
++        <rect
++           x="64.3999986649"
++           y="13.7999997139"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10274" />
++        <rect
++           x="9.19999980927"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10276" />
++        <rect
++           x="13.7999997139"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10278" />
++        <rect
++           x="16.0999996662"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10280" />
++        <rect
++           x="18.3999996185"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10282" />
++        <rect
++           x="22.9999995232"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10284" />
++        <rect
++           x="29.8999993801"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10286" />
++        <rect
++           x="32.1999993324"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10288" />
++        <rect
++           x="36.7999992371"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10290" />
++        <rect
++           x="45.9999990463"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10292" />
++        <rect
++           x="50.599998951"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10294" />
++        <rect
++           x="55.1999988556"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10296" />
++        <rect
++           x="57.4999988079"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10298" />
++        <rect
++           x="59.7999987602"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10300" />
++        <rect
++           x="64.3999986649"
++           y="16.0999996662"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10302" />
++        <rect
++           x="9.19999980927"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10304" />
++        <rect
++           x="13.7999997139"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10306" />
++        <rect
++           x="16.0999996662"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10308" />
++        <rect
++           x="18.3999996185"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10310" />
++        <rect
++           x="22.9999995232"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10312" />
++        <rect
++           x="27.5999994278"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10314" />
++        <rect
++           x="34.4999992847"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10316" />
++        <rect
++           x="41.3999991417"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10318" />
++        <rect
++           x="43.699999094"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10320" />
++        <rect
++           x="45.9999990463"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10322" />
++        <rect
++           x="50.599998951"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10324" />
++        <rect
++           x="55.1999988556"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10326" />
++        <rect
++           x="57.4999988079"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10328" />
++        <rect
++           x="59.7999987602"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10330" />
++        <rect
++           x="64.3999986649"
++           y="18.3999996185"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10332" />
++        <rect
++           x="9.19999980927"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10334" />
++        <rect
++           x="22.9999995232"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10336" />
++        <rect
++           x="27.5999994278"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10338" />
++        <rect
++           x="29.8999993801"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10340" />
++        <rect
++           x="36.7999992371"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10342" />
++        <rect
++           x="39.0999991894"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10344" />
++        <rect
++           x="43.699999094"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10346" />
++        <rect
++           x="45.9999990463"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10348" />
++        <rect
++           x="50.599998951"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10350" />
++        <rect
++           x="64.3999986649"
++           y="20.6999995708"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10352" />
++        <rect
++           x="9.19999980927"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10354" />
++        <rect
++           x="11.4999997616"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10356" />
++        <rect
++           x="13.7999997139"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10358" />
++        <rect
++           x="16.0999996662"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10360" />
++        <rect
++           x="18.3999996185"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10362" />
++        <rect
++           x="20.6999995708"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10364" />
++        <rect
++           x="22.9999995232"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10366" />
++        <rect
++           x="27.5999994278"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10368" />
++        <rect
++           x="32.1999993324"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10370" />
++        <rect
++           x="36.7999992371"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10372" />
++        <rect
++           x="41.3999991417"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10374" />
++        <rect
++           x="45.9999990463"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10376" />
++        <rect
++           x="50.599998951"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10378" />
++        <rect
++           x="52.8999989033"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10380" />
++        <rect
++           x="55.1999988556"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10382" />
++        <rect
++           x="57.4999988079"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10384" />
++        <rect
++           x="59.7999987602"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10386" />
++        <rect
++           x="62.0999987125"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10388" />
++        <rect
++           x="64.3999986649"
++           y="22.9999995232"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10390" />
++        <rect
++           x="27.5999994278"
++           y="25.2999994755"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10392" />
++        <rect
++           x="29.8999993801"
++           y="25.2999994755"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10394" />
++        <rect
++           x="34.4999992847"
++           y="25.2999994755"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10396" />
++        <rect
++           x="41.3999991417"
++           y="25.2999994755"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10398" />
++        <rect
++           x="45.9999990463"
++           y="25.2999994755"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10400" />
++        <rect
++           x="9.19999980927"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10402" />
++        <rect
++           x="11.4999997616"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10404" />
++        <rect
++           x="16.0999996662"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10406" />
++        <rect
++           x="22.9999995232"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10408" />
++        <rect
++           x="25.2999994755"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10410" />
++        <rect
++           x="32.1999993324"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10412" />
++        <rect
++           x="36.7999992371"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10414" />
++        <rect
++           x="39.0999991894"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10416" />
++        <rect
++           x="41.3999991417"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10418" />
++        <rect
++           x="50.599998951"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10420" />
++        <rect
++           x="52.8999989033"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10422" />
++        <rect
++           x="55.1999988556"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10424" />
++        <rect
++           x="59.7999987602"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10426" />
++        <rect
++           x="62.0999987125"
++           y="27.5999994278"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10428" />
++        <rect
++           x="13.7999997139"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10430" />
++        <rect
++           x="16.0999996662"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10432" />
++        <rect
++           x="32.1999993324"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10434" />
++        <rect
++           x="36.7999992371"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10436" />
++        <rect
++           x="48.2999989986"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10438" />
++        <rect
++           x="50.599998951"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10440" />
++        <rect
++           x="52.8999989033"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10442" />
++        <rect
++           x="64.3999986649"
++           y="29.8999993801"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10444" />
++        <rect
++           x="18.3999996185"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10446" />
++        <rect
++           x="22.9999995232"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10448" />
++        <rect
++           x="25.2999994755"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10450" />
++        <rect
++           x="29.8999993801"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10452" />
++        <rect
++           x="32.1999993324"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10454" />
++        <rect
++           x="36.7999992371"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10456" />
++        <rect
++           x="39.0999991894"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10458" />
++        <rect
++           x="45.9999990463"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10460" />
++        <rect
++           x="48.2999989986"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10462" />
++        <rect
++           x="52.8999989033"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10464" />
++        <rect
++           x="55.1999988556"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10466" />
++        <rect
++           x="62.0999987125"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10468" />
++        <rect
++           x="64.3999986649"
++           y="32.1999993324"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10470" />
++        <rect
++           x="16.0999996662"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10472" />
++        <rect
++           x="25.2999994755"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10474" />
++        <rect
++           x="34.4999992847"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10476" />
++        <rect
++           x="39.0999991894"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10478" />
++        <rect
++           x="41.3999991417"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10480" />
++        <rect
++           x="45.9999990463"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10482" />
++        <rect
++           x="48.2999989986"
++           y="34.4999992847"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10484" />
++        <rect
++           x="11.4999997616"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10486" />
++        <rect
++           x="13.7999997139"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10488" />
++        <rect
++           x="16.0999996662"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10490" />
++        <rect
++           x="22.9999995232"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10492" />
++        <rect
++           x="25.2999994755"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10494" />
++        <rect
++           x="27.5999994278"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10496" />
++        <rect
++           x="39.0999991894"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10498" />
++        <rect
++           x="43.699999094"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10500" />
++        <rect
++           x="45.9999990463"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10502" />
++        <rect
++           x="48.2999989986"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10504" />
++        <rect
++           x="50.599998951"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10506" />
++        <rect
++           x="57.4999988079"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10508" />
++        <rect
++           x="62.0999987125"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10510" />
++        <rect
++           x="64.3999986649"
++           y="36.7999992371"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10512" />
++        <rect
++           x="18.3999996185"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10514" />
++        <rect
++           x="27.5999994278"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10516" />
++        <rect
++           x="32.1999993324"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10518" />
++        <rect
++           x="36.7999992371"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10520" />
++        <rect
++           x="45.9999990463"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10522" />
++        <rect
++           x="50.599998951"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10524" />
++        <rect
++           x="52.8999989033"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10526" />
++        <rect
++           x="57.4999988079"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10528" />
++        <rect
++           x="59.7999987602"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10530" />
++        <rect
++           x="64.3999986649"
++           y="39.0999991894"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10532" />
++        <rect
++           x="18.3999996185"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10534" />
++        <rect
++           x="22.9999995232"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10536" />
++        <rect
++           x="25.2999994755"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10538" />
++        <rect
++           x="34.4999992847"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10540" />
++        <rect
++           x="36.7999992371"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10542" />
++        <rect
++           x="41.3999991417"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10544" />
++        <rect
++           x="45.9999990463"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10546" />
++        <rect
++           x="50.599998951"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10548" />
++        <rect
++           x="55.1999988556"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10550" />
++        <rect
++           x="59.7999987602"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10552" />
++        <rect
++           x="64.3999986649"
++           y="41.3999991417"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10554" />
++        <rect
++           x="11.4999997616"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10556" />
++        <rect
++           x="25.2999994755"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10558" />
++        <rect
++           x="27.5999994278"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10560" />
++        <rect
++           x="34.4999992847"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10562" />
++        <rect
++           x="36.7999992371"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10564" />
++        <rect
++           x="39.0999991894"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10566" />
++        <rect
++           x="41.3999991417"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10568" />
++        <rect
++           x="43.699999094"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10570" />
++        <rect
++           x="50.599998951"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10572" />
++        <rect
++           x="57.4999988079"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10574" />
++        <rect
++           x="62.0999987125"
++           y="43.699999094"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10576" />
++        <rect
++           x="11.4999997616"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10578" />
++        <rect
++           x="13.7999997139"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10580" />
++        <rect
++           x="16.0999996662"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10582" />
++        <rect
++           x="18.3999996185"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10584" />
++        <rect
++           x="22.9999995232"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10586" />
++        <rect
++           x="25.2999994755"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10588" />
++        <rect
++           x="27.5999994278"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10590" />
++        <rect
++           x="32.1999993324"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10592" />
++        <rect
++           x="43.699999094"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10594" />
++        <rect
++           x="45.9999990463"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10596" />
++        <rect
++           x="48.2999989986"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10598" />
++        <rect
++           x="50.599998951"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10600" />
++        <rect
++           x="52.8999989033"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10602" />
++        <rect
++           x="55.1999988556"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10604" />
++        <rect
++           x="57.4999988079"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10606" />
++        <rect
++           x="59.7999987602"
++           y="45.9999990463"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10608" />
++        <rect
++           x="27.5999994278"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10610" />
++        <rect
++           x="32.1999993324"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10612" />
++        <rect
++           x="34.4999992847"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10614" />
++        <rect
++           x="36.7999992371"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10616" />
++        <rect
++           x="39.0999991894"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10618" />
++        <rect
++           x="41.3999991417"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10620" />
++        <rect
++           x="43.699999094"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10622" />
++        <rect
++           x="45.9999990463"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10624" />
++        <rect
++           x="55.1999988556"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10626" />
++        <rect
++           x="57.4999988079"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10628" />
++        <rect
++           x="59.7999987602"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10630" />
++        <rect
++           x="64.3999986649"
++           y="48.2999989986"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10632" />
++        <rect
++           x="9.19999980927"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10634" />
++        <rect
++           x="11.4999997616"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10636" />
++        <rect
++           x="13.7999997139"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10638" />
++        <rect
++           x="16.0999996662"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10640" />
++        <rect
++           x="18.3999996185"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10642" />
++        <rect
++           x="20.6999995708"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10644" />
++        <rect
++           x="22.9999995232"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10646" />
++        <rect
++           x="27.5999994278"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10648" />
++        <rect
++           x="29.8999993801"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10650" />
++        <rect
++           x="43.699999094"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10652" />
++        <rect
++           x="45.9999990463"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10654" />
++        <rect
++           x="50.599998951"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10656" />
++        <rect
++           x="55.1999988556"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10658" />
++        <rect
++           x="62.0999987125"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10660" />
++        <rect
++           x="64.3999986649"
++           y="50.599998951"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10662" />
++        <rect
++           x="9.19999980927"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10664" />
++        <rect
++           x="22.9999995232"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10666" />
++        <rect
++           x="32.1999993324"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10668" />
++        <rect
++           x="34.4999992847"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10670" />
++        <rect
++           x="45.9999990463"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10672" />
++        <rect
++           x="55.1999988556"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10674" />
++        <rect
++           x="57.4999988079"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10676" />
++        <rect
++           x="59.7999987602"
++           y="52.8999989033"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10678" />
++        <rect
++           x="9.19999980927"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10680" />
++        <rect
++           x="13.7999997139"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10682" />
++        <rect
++           x="16.0999996662"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10684" />
++        <rect
++           x="18.3999996185"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10686" />
++        <rect
++           x="22.9999995232"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10688" />
++        <rect
++           x="29.8999993801"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10690" />
++        <rect
++           x="34.4999992847"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10692" />
++        <rect
++           x="36.7999992371"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10694" />
++        <rect
++           x="39.0999991894"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10696" />
++        <rect
++           x="45.9999990463"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10698" />
++        <rect
++           x="48.2999989986"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10700" />
++        <rect
++           x="50.599998951"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10702" />
++        <rect
++           x="52.8999989033"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10704" />
++        <rect
++           x="55.1999988556"
++           y="55.1999988556"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10706" />
++        <rect
++           x="9.19999980927"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10708" />
++        <rect
++           x="13.7999997139"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10710" />
++        <rect
++           x="16.0999996662"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10712" />
++        <rect
++           x="18.3999996185"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10714" />
++        <rect
++           x="22.9999995232"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10716" />
++        <rect
++           x="27.5999994278"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10718" />
++        <rect
++           x="29.8999993801"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10720" />
++        <rect
++           x="32.1999993324"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10722" />
++        <rect
++           x="36.7999992371"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10724" />
++        <rect
++           x="45.9999990463"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10726" />
++        <rect
++           x="48.2999989986"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10728" />
++        <rect
++           x="52.8999989033"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10730" />
++        <rect
++           x="55.1999988556"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10732" />
++        <rect
++           x="59.7999987602"
++           y="57.4999988079"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10734" />
++        <rect
++           x="9.19999980927"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10736" />
++        <rect
++           x="13.7999997139"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10738" />
++        <rect
++           x="16.0999996662"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10740" />
++        <rect
++           x="18.3999996185"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10742" />
++        <rect
++           x="22.9999995232"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10744" />
++        <rect
++           x="39.0999991894"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10746" />
++        <rect
++           x="55.1999988556"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10748" />
++        <rect
++           x="57.4999988079"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10750" />
++        <rect
++           x="59.7999987602"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10752" />
++        <rect
++           x="64.3999986649"
++           y="59.7999987602"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10754" />
++        <rect
++           x="9.19999980927"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10756" />
++        <rect
++           x="22.9999995232"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10758" />
++        <rect
++           x="27.5999994278"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10760" />
++        <rect
++           x="29.8999993801"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10762" />
++        <rect
++           x="36.7999992371"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10764" />
++        <rect
++           x="39.0999991894"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10766" />
++        <rect
++           x="43.699999094"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10768" />
++        <rect
++           x="45.9999990463"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10770" />
++        <rect
++           x="48.2999989986"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10772" />
++        <rect
++           x="50.599998951"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10774" />
++        <rect
++           x="57.4999988079"
++           y="62.0999987125"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10776" />
++        <rect
++           x="9.19999980927"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10778" />
++        <rect
++           x="11.4999997616"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10780" />
++        <rect
++           x="13.7999997139"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10782" />
++        <rect
++           x="16.0999996662"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10784" />
++        <rect
++           x="18.3999996185"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10786" />
++        <rect
++           x="20.6999995708"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10788" />
++        <rect
++           x="22.9999995232"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10790" />
++        <rect
++           x="27.5999994278"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10792" />
++        <rect
++           x="32.1999993324"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10794" />
++        <rect
++           x="34.4999992847"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10796" />
++        <rect
++           x="36.7999992371"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10798" />
++        <rect
++           x="39.0999991894"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10800" />
++        <rect
++           x="43.699999094"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10802" />
++        <rect
++           x="45.9999990463"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10804" />
++        <rect
++           x="52.8999989033"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10806" />
++        <rect
++           x="62.0999987125"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10808" />
++        <rect
++           x="64.3999986649"
++           y="64.3999986649"
++           width="2.29999995232"
++           height="2.29999995232"
++           style="fill:black;stroke:none"
++           id="rect10810" />
++      </g>
