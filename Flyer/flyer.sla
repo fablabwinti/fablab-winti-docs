@@ -71,6 +71,7 @@
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1549556829" PDLanguage="-1549556829" markLength="-5.27735271320721e-137" markOffset="-5.27735271320721e-137" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="1" FontEmbedding="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="1" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
             <Subset Name="Lato Black"/>
+            <Subset Name="Lato Bold"/>
             <Subset Name="Lato Light"/>
             <Subset Name="Lato Light Italic"/>
             <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
@@ -148,7 +149,7 @@
         <PAGEOBJECT XPOS="117.007874015748" YPOS="378.299212598425" OwnPage="0" ItemID="1554879329" PTYPE="4" WIDTH="139.280563613759" HEIGHT="46.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L139.281 0 L139.281 46.5 L0 46.5 L0 0 Z" copath="M0 0 L139.281 0 L139.281 46.5 L0 46.5 L0 0 Z" gXpos="117.007874015748" gYpos="378.299212598425" gWidth="0" gHeight="0" PSTYLE="PText klein" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="PText klein"/>
-                <ITEXT FONT="Lato Light Italic" CH="ab 28. November 2017:"/>
+                <ITEXT FONT="Lato Light Italic" CH="ab 21. November 2017:"/>
                 <para PARENT="PText klein"/>
                 <ITEXT CH="Technoparkstrasse 2"/>
                 <para PARENT="PText klein"/>
@@ -257,7 +258,7 @@
                 <para PARENT="PText klein mit Abstand"/>
                 <ITEXT CH="Weihnachtsworkshop für Kinder und Familien"/>
                 <tab/>
-                <ITEXT CH="XX. Dezember 2017"/>
+                <ITEXT CH="16./17. Dez. 2017"/>
                 <para PARENT="Workshop Titel"/>
                 <ITEXT CH="3D-drucke deinen individuellen Guetzliausstecher und laser-schneide Weihnachtsdekoration aus Plexiglas."/>
                 <para PARENT="Workshop Text"/>
