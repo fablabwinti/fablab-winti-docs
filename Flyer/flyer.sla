@@ -262,6 +262,18 @@
                 <para PARENT="Workshop Titel"/>
                 <ITEXT CH="3D-drucke deinen individuellen Guetzliausstecher und laser-schneide Weihnachtsdekoration aus Plexiglas."/>
                 <para PARENT="Workshop Text"/>
+                <ITEXT CH="LED Matrix selber bauen"/>
+                <tab/>
+                <ITEXT CH="Januar 2018"/>
+                <para PARENT="Workshop Titel"/>
+                <ITEXT CH="IKEA Hacking: Löte einen farbenfrohen Arduino-gesteuerten Blickfang."/>
+                <para PARENT="Workshop Text"/>
+                <ITEXT CH="SMD Löten"/>
+                <tab/>
+                <ITEXT CH="Januar 2018"/>
+                <para PARENT="Workshop Titel"/>
+                <ITEXT CH="Baue einen Line-Follower-Roboter und lerne Techniken, Tipps &amp; Tricks."/>
+                <para PARENT="Workshop Text"/>
                 <ITEXT CH="3D-Druck Grundlagen"/>
                 <para PARENT="Workshop Titel"/>
                 <ITEXT CH="Praxis vom 3D-Design bis zum Druck eines 3D-Objektes."/>
@@ -273,16 +285,6 @@
                 <ITEXT CH="3D-Konstruktion mit CAD (Fusion 360)"/>
                 <para PARENT="Workshop Titel"/>
                 <ITEXT CH="Grundlagen der Konstruktion mit einem CAD-Programm."/>
-                <para PARENT="Workshop Text"/>
-                <ITEXT CH="LED Matrix selber bauen"/>
-                <tab/>
-                <para PARENT="Workshop Titel"/>
-                <ITEXT CH="IKEA Hacking: Löte einen farbenfrohen Arduino-gesteuerten Blickfang."/>
-                <para PARENT="Workshop Text"/>
-                <ITEXT CH="SMD Löten"/>
-                <tab/>
-                <para PARENT="Workshop Titel"/>
-                <ITEXT CH="Baue einen Line-Follower-Roboter und lerne Techniken, Tipps &amp; Tricks."/>
                 <para PARENT="Workshop Text"/>
                 <ITEXT CH="Chaos-EggBot Zusammenbau"/>
                 <para PARENT="Workshop Titel"/>
