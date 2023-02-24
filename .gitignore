@@ -1,1 +1,3 @@
 /FabLab-Kits/out/*.svg
+/*/private/
+/*/releases/
