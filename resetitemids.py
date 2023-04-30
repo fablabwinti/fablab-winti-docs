@@ -36,9 +36,22 @@ def main(filename):
 			if linediffer.ratio() >= 0.6:
 				process(oldb, newb)
 		else:
-			# TODO match them up by similarity
-			if olde != oldb or newe != newb:
-				print('TODO multi-line mismatch [{}:{}] [{}:{}]'.format(oldb, olde, newb, newe))
+			# match them up by similarity
+			similarities = [
+				(
+					difflib.SequenceMatcher(a = oldlinesmatch[oldi], b = newlinesmatch[newi]).ratio(),
+					oldi,
+					newi
+				)
+				for oldi in range(oldb, olde)
+				for newi in range(newb, newe)
+			]
+			while similarities:
+				# tuples sort lexicographically so this is one of the best matching pairs
+				bestmatch = max(similarities)
+				# remove the same row and the same column from the matrix
+				similarities = [it for it in similarities if it[1] != bestmatch[1] and it[2] != bestmatch[2]]
+				process(bestmatch[1], bestmatch[2])
 		# [olde:olde+size] and [newe:newe+size] are matching lines
 		#print('match', olde, olde+size, newe, newe+size)
 		for i in range(size):
