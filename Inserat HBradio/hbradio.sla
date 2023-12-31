@@ -34,10 +34,10 @@
         <STYLE NAME="PTitel" LINESP="13.2" INDENT="0" FIRST="0" VOR="0" CPARENT="Titel"/>
         <STYLE NAME="PText" LINESPMode="1" CPARENT="Text"/>
         <STYLE NAME="Tabelle Titelzeile" PARENT="PText" INDENT="0" FIRST="0" NACH="2">
-            <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
+            <Tabs Type="0" Pos="45.5236220472441" Fill=""/>
             <Tabs Type="1" Pos="300.472440944882" Fill=""/>
         </STYLE>
-        <STYLE NAME="Tabelle Inhalt" PARENT="Tabelle Titelzeile" INDENT="51.0236220472441" FIRST="0" NACH="5"/>
+        <STYLE NAME="Tabelle Inhalt" PARENT="Tabelle Titelzeile" INDENT="45.5236220472441" FIRST="0" NACH="5"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -121,25 +121,27 @@
         <PAGEOBJECT XPOS="445.827401574803" YPOS="133.387086614174" OwnPage="0" ItemID="92775683" PTYPE="4" WIDTH="170.07874015748" HEIGHT="101.434060742405" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L170.079 0 L170.079 101.434 L0 101.434 L0 0 Z" copath="M0 0 L170.079 0 L170.079 101.434 L0 101.434 L0 0 Z" gXpos="445.827401574803" gYpos="133.387086614174" gWidth="0" gHeight="0" PSTYLE="PText" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="PText"/>
-                <tab/>
-                <ITEXT CH="15.12.2023"/>
-                <tab/>
+                <ITEXT CH="CAD Fusion 360"/>
+                <para PARENT="PText">
+                    <Tabs Type="1" Pos="46.41" Fill=""/>
+                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
+                </para>
+                <ITEXT CH="Arduino-Einführungskurs"/>
+                <para PARENT="PText">
+                    <Tabs Type="1" Pos="46.41" Fill=""/>
+                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
+                </para>
                 <ITEXT CH="3D-Druck Grundlagen"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
                 </para>
-                <tab/>
-                <ITEXT CH="12.2023"/>
-                <tab/>
-                <ITEXT KERN="-1" CH="Weihnachtsworkshop für"/>
+                <ITEXT CH="Lasercutter Grundkurs"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
                 </para>
-                <tab/>
-                <tab/>
-                <ITEXT KERN="-1" CH="Kinder und Familien"/>
+                <ITEXT CH="3D-Drucker Zusammenbau"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
@@ -201,22 +203,6 @@
         <PAGEOBJECT XPOS="111.339212598425" YPOS="175.906771653543" OwnPage="0" ItemID="93618947" PTYPE="4" WIDTH="301.03937007874" HEIGHT="150.086419753086" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L301.039 0 L301.039 150.086 L0 150.086 L0 0 Z" copath="M0 0 L301.039 0 L301.039 150.086 L0 150.086 L0 0 Z" gXpos="111.339212598425" gYpos="175.906771653543" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="8.12.2023"/>
-                <tab/>
-                <ITEXT CPARENT="Tabellentitel" CH="webcamaze – the encyclopedia of the now"/>
-                <tab/>
-                <ITEXT CPARENT="Referent" CH="Helmut Grubner"/>
-                <para PARENT="Tabelle Titelzeile"/>
-                <ITEXT CH="Webcamaze ist ein Kunst-, ein Fotografie-, ein AI- und Bigdata-Projekt, das weltweite Open-Data-Quellen nutzt. Lass dich vom Jetzt inspirieren."/>
-                <para PARENT="Tabelle Inhalt"/>
-                <ITEXT CH="12.1.2024"/>
-                <tab/>
-                <ITEXT CPARENT="Tabellentitel" CH="Mein Keyboard, so wie ich es möchte"/>
-                <tab/>
-                <ITEXT CPARENT="Referent" CH="Christoph Heer"/>
-                <para PARENT="Tabelle Titelzeile"/>
-                <ITEXT CH="Die beste Tastatur ist diejenige, die man sich selbst so baut, dass sie einem optimal passt. Christoph zeigt uns seinen Weg auf, wie er zu seinem eigenen optimalen Keyboard gekommen ist. Idee – Design – Layout – Elektronik."/>
-                <para PARENT="Tabelle Inhalt"/>
                 <ITEXT CH="9.2.2024"/>
                 <tab/>
                 <ITEXT CPARENT="Tabellentitel" CH="Spiele entwickeln für Playdate"/>
@@ -224,6 +210,22 @@
                 <ITEXT CPARENT="Referent" CH="Christian Walther"/>
                 <para PARENT="Tabelle Titelzeile"/>
                 <ITEXT CH="Die kleine gelbe Spielkonsole ist bereit für deine eigenen Spiele."/>
+                <para PARENT="Tabelle Inhalt"/>
+                <ITEXT CH="8.3.2024"/>
+                <tab/>
+                <ITEXT CPARENT="Tabellentitel" KERN="-2" CH="Elektronische Schaltungssimulation kann jeder"/>
+                <tab/>
+                <ITEXT CPARENT="Referent" CH="Christoph Balmer"/>
+                <para PARENT="Tabelle Titelzeile"/>
+                <ITEXT CH="Ein virtuelles Labor für Ideen und exploratives Lernen, ein «Spielzimmer» für Elektronik-Interessierte. Der Einstieg gelingt anhand von Beispielen und für weitere Schritte werden mögliche Wege angegeben."/>
+                <para PARENT="Tabelle Inhalt"/>
+                <ITEXT CH="12.4.2024"/>
+                <tab/>
+                <ITEXT CPARENT="Tabellentitel" CH="Flutter – App-Entwicklung für iOS und Android"/>
+                <tab/>
+                <ITEXT CPARENT="Referent" CH="Joachim Willner"/>
+                <para PARENT="Tabelle Titelzeile"/>
+                <ITEXT CH="Mit Flutter erstellst du Apps, die ausgehend von einer einheitlichen Code-Basis auf verschiedenen Plattformen genutzt werden können. Eine kurze Einführung mit Beispielen."/>
                 <trail PARENT="Tabelle Inhalt"/>
             </StoryText>
         </PAGEOBJECT>
