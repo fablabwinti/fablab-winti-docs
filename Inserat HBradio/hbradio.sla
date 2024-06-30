@@ -122,17 +122,17 @@
             <StoryText>
                 <DefaultStyle PARENT="PText"/>
                 <tab/>
-                <ITEXT CH="5.7.2024"/>
+                <ITEXT CH="11.8.2024"/>
                 <tab/>
-                <ITEXT CH="3D-Druck Grundlagen"/>
+                <ITEXT CH="Arduino-Einführungskurs"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
                 </para>
                 <tab/>
-                <ITEXT CH="26.7.2024"/>
+                <ITEXT CH="23.8.2024"/>
                 <tab/>
-                <ITEXT CH="CAD Fusion 360"/>
+                <ITEXT CH="3D-Drucker Zusammenbau"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
@@ -149,6 +149,14 @@
                 <ITEXT CH="23.9.2024"/>
                 <tab/>
                 <ITEXT CH="CAD Fusion 360"/>
+                <para PARENT="PText">
+                    <Tabs Type="1" Pos="46.41" Fill=""/>
+                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
+                </para>
+                <tab/>
+                <ITEXT CH="29.9.2024"/>
+                <tab/>
+                <ITEXT KERN="-1" CH="TinyGS-Satellitenbodenstation"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
@@ -210,22 +218,6 @@
         <PAGEOBJECT XPOS="111.339212598425" YPOS="175.906771653543" OwnPage="0" ItemID="93618947" PTYPE="4" WIDTH="301.03937007874" HEIGHT="150.086419753086" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L301.039 0 L301.039 150.086 L0 150.086 L0 0 Z" copath="M0 0 L301.039 0 L301.039 150.086 L0 150.086 L0 0 Z" gXpos="111.339212598425" gYpos="175.906771653543" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="14.6.2024"/>
-                <tab/>
-                <ITEXT CPARENT="Tabellentitel" CH="Einführung in Explainable Machine Learning"/>
-                <tab/>
-                <ITEXT CPARENT="Referent" CH="Manuel Capel"/>
-                <para PARENT="Tabelle Titelzeile"/>
-                <ITEXT CH="Deep-Learning-Modelle sind effizient, aber oft Black-Boxes, was ihre Adoption in Industrien wie Medizin oder Finanz verhindert. Da ist Explainability gefragt. Was heisst das? Ein paar Beispiele."/>
-                <para PARENT="Tabelle Inhalt"/>
-                <ITEXT CH="12.7.2024"/>
-                <tab/>
-                <ITEXT CPARENT="Tabellentitel" KERN="-2" CH="Elektronische Schaltungssimulation kann jeder"/>
-                <tab/>
-                <ITEXT CPARENT="Referent" CH="Christoph Balmer"/>
-                <para PARENT="Tabelle Titelzeile"/>
-                <ITEXT CH="Ein virtuelles Labor für Ideen und exploratives Lernen, ein «Spielzimmer» für Elektronik-Interessierte. Der Einstieg gelingt anhand von Beispielen und für weitere Schritte werden mögliche Wege angegeben."/>
-                <para PARENT="Tabelle Inhalt"/>
                 <ITEXT CH="9.8.2024"/>
                 <tab/>
                 <ITEXT CPARENT="Tabellentitel" CH="Einführung in neuronale Netze"/>
@@ -233,6 +225,22 @@
                 <ITEXT CPARENT="Referent" CH="Susanne Brockmann"/>
                 <para PARENT="Tabelle Titelzeile"/>
                 <ITEXT CH="Was ist ein neuronales Netz, wo treffen wir diese an, und wie kann ein Maker diese nutzen?"/>
+                <para PARENT="Tabelle Inhalt"/>
+                <ITEXT CH="13.9.2024"/>
+                <tab/>
+                <ITEXT CPARENT="Tabellentitel" CH="Audio-Sound-Effekte im Eigenbau"/>
+                <tab/>
+                <ITEXT CPARENT="Referent" CH="Peter Büchler"/>
+                <para PARENT="Tabelle Titelzeile"/>
+                <ITEXT CH="Was steckt hinter einem guten Audio-Sound-Effekt, und wie kannst du Soundeffekte selber erzeugen?"/>
+                <para PARENT="Tabelle Inhalt"/>
+                <ITEXT CH="11.10.2024"/>
+                <tab/>
+                <ITEXT CPARENT="Tabellentitel" CH="UI Design Tool Figma"/>
+                <tab/>
+                <ITEXT CPARENT="Referent" CH="Michael Burgdorfer"/>
+                <para PARENT="Tabelle Titelzeile"/>
+                <ITEXT CH="Was es braucht, um richtig schöne UI-Designs mit Figma erstellen zu können."/>
                 <trail PARENT="Tabelle Inhalt"/>
             </StoryText>
         </PAGEOBJECT>
