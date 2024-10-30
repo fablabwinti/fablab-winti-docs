@@ -172,7 +172,7 @@
                 <DefaultStyle PARENT="PText" ALIGN="2" CPARENT="Text"/>
                 <ITEXT CPARENT="Text" CH="www.fablabwinti.ch"/>
                 <para PARENT="PText" ALIGN="2"/>
-                <ITEXT CPARENT="Text" CH="twitter.com/fablabwinti"/>
+                <ITEXT CPARENT="Text" CH="instagram.com/fablabwinti"/>
                 <para PARENT="PText" ALIGN="2"/>
                 <ITEXT CPARENT="Text" CH="facebook.com/FabLab.winti"/>
                 <trail PARENT="PText" ALIGN="2"/>
