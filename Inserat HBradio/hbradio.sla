@@ -122,7 +122,7 @@
             <StoryText>
                 <DefaultStyle PARENT="PText"/>
                 <tab/>
-                <ITEXT CH="17.2.2025"/>
+                <ITEXT CH="7.4.2025"/>
                 <tab/>
                 <ITEXT CH="KiCad 8 für Anfänger"/>
                 <para PARENT="PText">
@@ -130,25 +130,25 @@
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
                 </para>
                 <tab/>
-                <ITEXT CH="21.2.2025"/>
-                <tab/>
-                <ITEXT CH="3D-Druck Grundlagen"/>
-                <para PARENT="PText">
-                    <Tabs Type="1" Pos="46.41" Fill=""/>
-                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
-                </para>
-                <tab/>
-                <ITEXT CH="9.5.2025"/>
-                <tab/>
-                <ITEXT CH="3D-Druck Grundlagen"/>
-                <para PARENT="PText">
-                    <Tabs Type="1" Pos="46.41" Fill=""/>
-                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
-                </para>
-                <tab/>
-                <ITEXT CH="30.5.2025"/>
+                <ITEXT CH="23.5.2025"/>
                 <tab/>
                 <ITEXT KERN="-0.5" CH="SMD-Handlöten für Einsteiger"/>
+                <para PARENT="PText">
+                    <Tabs Type="1" Pos="46.41" Fill=""/>
+                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
+                </para>
+                <tab/>
+                <ITEXT CH="2.6.2025"/>
+                <tab/>
+                <ITEXT CH="CAD Fusion 360"/>
+                <para PARENT="PText">
+                    <Tabs Type="1" Pos="46.41" Fill=""/>
+                    <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
+                </para>
+                <tab/>
+                <ITEXT CH="27.6.2025"/>
+                <tab/>
+                <ITEXT CH="3D-Druck Grundlagen"/>
                 <para PARENT="PText">
                     <Tabs Type="1" Pos="46.41" Fill=""/>
                     <Tabs Type="0" Pos="51.0236220472441" Fill=""/>
@@ -210,15 +210,21 @@
         <PAGEOBJECT XPOS="111.339212598425" YPOS="175.906771653543" OwnPage="0" ItemID="93618947" PTYPE="4" WIDTH="301.03937007874" HEIGHT="150.086419753086" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L301.039 0 L301.039 150.086 L0 150.086 L0 0 Z" copath="M0 0 L301.039 0 L301.039 150.086 L0 150.086 L0 0 Z" gXpos="111.339212598425" gYpos="175.906771653543" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="14.2.2025"/>
+                <ITEXT CH="11.4.2025"/>
                 <tab/>
-                <ITEXT CPARENT="Tabellentitel" CH="Reines H"/>
-                <ITEXT CPARENT="Tabellentitel" SCALEH="80" SCALEV="70" BASEO="-15" CH="2"/>
-                <ITEXT CPARENT="Tabellentitel" CH="O durch Umkehr-Osmose"/>
+                <ITEXT CPARENT="Tabellentitel" CH="3D-Drucker auf Klipper Firmware umrüsten"/>
                 <tab/>
-                <ITEXT CPARENT="Referent" CH="Dhyan Möbus"/>
+                <ITEXT CPARENT="Referent" CH="Florian Dörfler"/>
                 <para PARENT="Tabelle Titelzeile"/>
-                <ITEXT CH="Was ist (Umkehr-)Osmose? Wo werden Umkehrosmose-Filter eingesetzt? Wozu braucht man die zuhause? Wie baut sich ein Maker einen effizienten Umkehrosmose-Wasserfilter zusammen? Dhyan zeigt sein Wasserfilter-Projekt und erzählt von seinen Erfahrungen und Erkenntnissen."/>
+                <ITEXT CH="Die Klipper Firmware läuft auf vielen 3D-Druckern und bietet Features, welche vor allem ältere Drucker oft noch nicht haben. Florian zeigt am Beispiel seines Replicator 2X, wie der Umbau gehen kann und wie sich Klipper bedient."/>
+                <para PARENT="Tabelle Inhalt"/>
+                <ITEXT CH="16.5.2025"/>
+                <tab/>
+                <ITEXT CPARENT="Tabellentitel" CH="Safecast, offenes Umweltsensor-Netzwerk"/>
+                <tab/>
+                <ITEXT CPARENT="Referent" CH="Mark Hürlemann"/>
+                <para PARENT="Tabelle Titelzeile"/>
+                <ITEXT CH="Was ist Safecast und wer steht dahinter? Die weltweite Community erfasst und publiziert Daten über Radioaktivität und Luftqualität. Wie funktioniert das? Mark demonstriert seine selbst gebauten Sensoren (bGeigie Nano, bGeigie Zen). Wer kann mitmachen und wie sehen die Daten aus?"/>
                 <trail PARENT="Tabelle Inhalt"/>
             </StoryText>
         </PAGEOBJECT>
