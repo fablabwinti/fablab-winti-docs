@@ -1,0 +1,52 @@
+--- labels_2prices.svg	2025-03-29 15:22:05.361056277 +0100
++++ labels_2prices_8x8-led-matrix.svg	2025-03-29 15:22:00.134131623 +0100
+@@ -210,18 +210,18 @@
+          x="49.1563"
+          y="112.50816"
+          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:110%;font-family:Lato;-inkscape-font-specification:'Lato Bold'"
+-         id="tspan32522">$TITLE</tspan><tspan
++         id="tspan32522">8x8 LED-Matrix</tspan><tspan
+          sodipodi:role="line"
+          x="49.1563"
+-         y="133.59566"
++         y="121.94221"
+          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:110%;font-family:Lato;-inkscape-font-specification:'Lato Light'"
+-         id="tspan32524">$VARIANT</tspan></text>
++         id="tspan32524" /></text>
+     <text
+        id="text33398"
+        y="162.22397"
+        x="122.03262"
+        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1"
+-       xml:space="preserve">$URL</text>
++       xml:space="preserve">http://fl-w.ch/8x8-led-matrix</text>
+     <text
+        id="text33402"
+        y="197.40817"
+@@ -237,7 +237,7 @@
+          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:110%;font-family:Lato;-inkscape-font-specification:'Lato Light'"
+          y="208.40817"
+          x="121.64262"
+-         sodipodi:role="line">$DESIGNER</tspan></text>
++         sodipodi:role="line">Simone Schwizer</tspan></text>
+     <text
+        xml:space="preserve"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+@@ -253,7 +253,7 @@
+          x="213.7121"
+          y="210.17853"
+          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110%;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:start;text-anchor:start"
+-         id="tspan33434">$PRICE</tspan></text>
++         id="tspan33434">65.-</tspan></text>
+     <text
+        xml:space="preserve"
+        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+@@ -269,7 +269,7 @@
+          x="270.96924"
+          y="209.98059"
+          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110%;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:start;text-anchor:start"
+-         id="tspan33434-7">$PRICE</tspan></text>
++         id="tspan33434-7">75.-</tspan></text>
+     <g
+        id="g33412"
+        transform="matrix(0,-0.00781216,-0.00781216,0,360.17773,208.48819)">

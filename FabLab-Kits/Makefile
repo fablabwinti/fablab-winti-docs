@@ -12,6 +12,7 @@ all: \
 	out/labels-gartenlaterne-l.pdf \
 	out/labels-senso.pdf \
 	out/labels-3x5-led-matrix.pdf \
+	out/labels-2prices-8x8-led-matrix.pdf \
 
 out/labels-%.svg: %.patch
 	patch -i $*.patch -o $@ labels.svg
