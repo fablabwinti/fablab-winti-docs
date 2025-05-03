@@ -2,7 +2,7 @@
 +++ out/labels-2prices-8x8-led-matrix.svg	2025-05-03 12:27:10.000000000 +0200
 @@ -213 +213 @@
 -         id="tspan32522">$TITLE</tspan><tspan
-+         id="tspan32522">8x8 LED-Matrix</tspan><tspan
++         id="tspan32522">8×8 LED-Matrix</tspan><tspan
 @@ -218 +218 @@
 -         id="tspan32524">$VARIANT</tspan></text>
 +         id="tspan32524" /></text>
@@ -14,7 +14,7 @@
 +         sodipodi:role="line">Simone Schwizer</tspan></text>
 @@ -256 +256 @@
 -         id="tspan33434">$PRICE</tspan></text>
-+         id="tspan33434">65.-</tspan></text>
++         id="tspan33434">65.—</tspan></text>
 @@ -272 +272 @@
 -         id="tspan33434-7">$PRICE</tspan></text>
-+         id="tspan33434-7">75.-</tspan></text>
++         id="tspan33434-7">75.—</tspan></text>
