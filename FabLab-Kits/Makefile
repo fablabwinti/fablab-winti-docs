@@ -28,4 +28,4 @@ clean:
 
 .PHONY: all clean
 
-.PRECIOUS: out/labels%.svg
+.PRECIOUS: out/labels-%.svg out/labels-2prices-%.svg
