@@ -1,8 +1,6 @@
 # this is CW's personal installation on macOS... if you have Inkscape in the $PATH, run "make INKSCAPE=inkscape"
 INKSCAPE = /Applications/Programme/Graphik/Inkscape.app/Contents/Resources/bin/inkscape
 
-MODE ?= label
-
 all: \
 	out/labels-fidget-spinner.pdf \
 	out/labels-bristlebot-1c.pdf \
